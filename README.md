@@ -1,0 +1,2 @@
+# testonly
+tea testnet
